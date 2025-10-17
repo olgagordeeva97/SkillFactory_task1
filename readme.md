@@ -2,7 +2,7 @@
 
 LICENSE: [MIT](/licence.md)
 
-![](Git-logo.svg.png)
+![](./assets1/Git-logo.svg.png)
 
 ---
 
